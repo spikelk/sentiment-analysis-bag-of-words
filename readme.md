@@ -30,7 +30,7 @@
 - **比赛链接**：<https://www.kaggle.com/competitions/word2vec-nlp-tutorial>
 - **提交日期**：2026/4/15
 - **GitHub 仓库地址**：<https://github.com/spikelk/sentiment-analysis-bag-of-words>
-- **GitHub README 地址**：<https://github.com/spikelk/sentiment-analysis-bag-of-words/readme.md>
+- **GitHub README 地址**：<https://github.com/spikelk/sentiment-analysis-bag-of-words/blob/master/readme.md>
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到“姓名 + 学号”，否则无效。
 
