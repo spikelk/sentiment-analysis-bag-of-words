@@ -166,7 +166,7 @@
 
 ```text
 project/
-├─ Bigofwords.py      # 使用TF-IDF特征和逻辑回归的实现
+├─ main.py      # 使用TF-IDF特征和逻辑回归的实现
 ├─ labeledTrainData.tsv  # 带标签的训练数据
 ├─ testData.tsv         # 测试数据
 ├─ unlabeledTrainData.tsv  # 无标签的训练数据（用于Word2Vec训练）
