@@ -173,7 +173,7 @@ project/
 ├─ submission.csv      # 生成的提交文件
 ├─ 112304260126_刘康_kaggle_score.png      # Kaggle 提交结果截图
 ├─ .gitignore          # Git忽略文件配置
-└─ README.md           # 项目说明文档
+└─ readme.md           # 项目说明文档
 
 ```
 
